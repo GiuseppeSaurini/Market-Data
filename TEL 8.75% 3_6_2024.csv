@@ -1,6 +1,6 @@
-,columna,valores
-0,string,string
-1,Rendimiento,8.33
-2,Precio Clean,102.18
-3,Interes Corrido,1.39
-4,Duration,0.44
+columna,valores
+string,string
+Rendimiento,8.33
+Precio Clean,102.18
+Interes Corrido,1.39
+Duration,0.44
